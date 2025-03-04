@@ -1,0 +1,2027 @@
+[
+  {
+    "id": 1,
+    "city": "makkah",
+    "name": {
+      "translated": "The Opener",
+      "transliterated": "Al-Fatihah",
+      "codepoints": [
+        1575,
+        1604,
+        1601,
+        1575,
+        1578,
+        1581,
+        1577
+      ]
+    },
+    "ayahs": 7,
+    "slug": "al-fatihah"
+  },
+  {
+    "id": 2,
+    "city": "madinah",
+    "name": {
+      "translated": "The Cow",
+      "transliterated": "Al-Baqarah",
+      "codepoints": [
+        1575,
+        1604,
+        1576,
+        1602,
+        1585,
+        1577
+      ]
+    },
+    "ayahs": 286,
+    "slug": "al-baqarah"
+  },
+  {
+    "id": 3,
+    "city": "madinah",
+    "name": {
+      "translated": "Family of Imran",
+      "transliterated": "Ali 'Imran",
+      "codepoints": [
+        1570,
+        1604,
+        32,
+        1593,
+        1605,
+        1585,
+        1575,
+        1606
+      ]
+    },
+    "ayahs": 200,
+    "slug": "ali-imran"
+  },
+  {
+    "id": 4,
+    "city": "madinah",
+    "name": {
+      "translated": "The Women",
+      "transliterated": "An-Nisa",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1587,
+        1575,
+        1569
+      ]
+    },
+    "ayahs": 176,
+    "slug": "an-nisa"
+  },
+  {
+    "id": 5,
+    "city": "madinah",
+    "name": {
+      "translated": "The Table Spread",
+      "transliterated": "Al-Ma'idah",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1575,
+        1574,
+        1583,
+        1577
+      ]
+    },
+    "ayahs": 120,
+    "slug": "al-maidah"
+  },
+  {
+    "id": 6,
+    "city": "makkah",
+    "name": {
+      "translated": "The Cattle",
+      "transliterated": "Al-An'am",
+      "codepoints": [
+        1575,
+        1604,
+        1571,
+        1606,
+        1593,
+        1575,
+        1605
+      ]
+    },
+    "ayahs": 165,
+    "slug": "al-anam"
+  },
+  {
+    "id": 7,
+    "city": "makkah",
+    "name": {
+      "translated": "The Heights",
+      "transliterated": "Al-A'raf",
+      "codepoints": [
+        1575,
+        1604,
+        1571,
+        1593,
+        1585,
+        1575,
+        1601
+      ]
+    },
+    "ayahs": 206,
+    "slug": "al-araf"
+  },
+  {
+    "id": 8,
+    "city": "madinah",
+    "name": {
+      "translated": "The Spoils of War",
+      "transliterated": "Al-Anfal",
+      "codepoints": [
+        1575,
+        1604,
+        1571,
+        1606,
+        1601,
+        1575,
+        1604
+      ]
+    },
+    "ayahs": 75,
+    "slug": "al-anfal"
+  },
+  {
+    "id": 9,
+    "city": "madinah",
+    "name": {
+      "translated": "The Repentance",
+      "transliterated": "At-Tawbah",
+      "codepoints": [
+        1575,
+        1604,
+        1578,
+        1608,
+        1576,
+        1577
+      ]
+    },
+    "ayahs": 129,
+    "slug": "at-tawbah"
+  },
+  {
+    "id": 10,
+    "city": "makkah",
+    "name": {
+      "translated": "Jonah",
+      "transliterated": "Yunus",
+      "codepoints": [
+        1610,
+        1608,
+        1606,
+        1587
+      ]
+    },
+    "ayahs": 109,
+    "slug": "yunus"
+  },
+  {
+    "id": 11,
+    "city": "makkah",
+    "name": {
+      "translated": "Hud",
+      "transliterated": "Hud",
+      "codepoints": [
+        1607,
+        1608,
+        1583
+      ]
+    },
+    "ayahs": 123,
+    "slug": "hud"
+  },
+  {
+    "id": 12,
+    "city": "makkah",
+    "name": {
+      "translated": "Joseph",
+      "transliterated": "Yusuf",
+      "codepoints": [
+        1610,
+        1608,
+        1587,
+        1601
+      ]
+    },
+    "ayahs": 111,
+    "slug": "yusuf"
+  },
+  {
+    "id": 13,
+    "city": "madinah",
+    "name": {
+      "translated": "The Thunder",
+      "transliterated": "Ar-Ra'd",
+      "codepoints": [
+        1575,
+        1604,
+        1585,
+        1593,
+        1583
+      ]
+    },
+    "ayahs": 43,
+    "slug": "ar-rad"
+  },
+  {
+    "id": 14,
+    "city": "makkah",
+    "name": {
+      "translated": "Abraham",
+      "transliterated": "Ibrahim",
+      "codepoints": [
+        1575,
+        1576,
+        1585,
+        1575,
+        1607,
+        1610,
+        1605
+      ]
+    },
+    "ayahs": 52,
+    "slug": "ibrahim"
+  },
+  {
+    "id": 15,
+    "city": "makkah",
+    "name": {
+      "translated": "The Rocky Tract",
+      "transliterated": "Al-Hijr",
+      "codepoints": [
+        1575,
+        1604,
+        1581,
+        1580,
+        1585
+      ]
+    },
+    "ayahs": 99,
+    "slug": "al-hijr"
+  },
+  {
+    "id": 16,
+    "city": "makkah",
+    "name": {
+      "translated": "The Bee",
+      "transliterated": "An-Nahl",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1581,
+        1604
+      ]
+    },
+    "ayahs": 128,
+    "slug": "an-nahl"
+  },
+  {
+    "id": 17,
+    "city": "makkah",
+    "name": {
+      "translated": "The Night Journey",
+      "transliterated": "Al-Isra",
+      "codepoints": [
+        1575,
+        1604,
+        1573,
+        1587,
+        1585,
+        1575,
+        1569
+      ]
+    },
+    "ayahs": 111,
+    "slug": "al-isra"
+  },
+  {
+    "id": 18,
+    "city": "makkah",
+    "name": {
+      "translated": "The Cave",
+      "transliterated": "Al-Kahf",
+      "codepoints": [
+        1575,
+        1604,
+        1603,
+        1607,
+        1601
+      ]
+    },
+    "ayahs": 110,
+    "slug": "al-kahf"
+  },
+  {
+    "id": 19,
+    "city": "makkah",
+    "name": {
+      "translated": "Mary",
+      "transliterated": "Maryam",
+      "codepoints": [
+        1605,
+        1585,
+        1610,
+        1605
+      ]
+    },
+    "ayahs": 98,
+    "slug": "maryam"
+  },
+  {
+    "id": 20,
+    "city": "makkah",
+    "name": {
+      "translated": "Ta-Ha",
+      "transliterated": "Taha",
+      "codepoints": [
+        1591,
+        1607
+      ]
+    },
+    "ayahs": 135,
+    "slug": "taha"
+  },
+  {
+    "id": 21,
+    "city": "makkah",
+    "name": {
+      "translated": "The Prophets",
+      "transliterated": "Al-Anbya",
+      "codepoints": [
+        1575,
+        1604,
+        1571,
+        1606,
+        1576,
+        1610,
+        1575,
+        1569
+      ]
+    },
+    "ayahs": 112,
+    "slug": "al-anbya"
+  },
+  {
+    "id": 22,
+    "city": "madinah",
+    "name": {
+      "translated": "The Pilgrimage",
+      "transliterated": "Al-Hajj",
+      "codepoints": [
+        1575,
+        1604,
+        1581,
+        1580
+      ]
+    },
+    "ayahs": 78,
+    "slug": "al-hajj"
+  },
+  {
+    "id": 23,
+    "city": "makkah",
+    "name": {
+      "translated": "The Believers",
+      "transliterated": "Al-Mu'minun",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1572,
+        1605,
+        1606,
+        1608,
+        1606
+      ]
+    },
+    "ayahs": 118,
+    "slug": "al-muminun"
+  },
+  {
+    "id": 24,
+    "city": "madinah",
+    "name": {
+      "translated": "The Light",
+      "transliterated": "An-Nur",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1608,
+        1585
+      ]
+    },
+    "ayahs": 64,
+    "slug": "an-nur"
+  },
+  {
+    "id": 25,
+    "city": "makkah",
+    "name": {
+      "translated": "The Criterion",
+      "transliterated": "Al-Furqan",
+      "codepoints": [
+        1575,
+        1604,
+        1601,
+        1585,
+        1602,
+        1575,
+        1606
+      ]
+    },
+    "ayahs": 77,
+    "slug": "al-furqan"
+  },
+  {
+    "id": 26,
+    "city": "makkah",
+    "name": {
+      "translated": "The Poets",
+      "transliterated": "Ash-Shu'ara",
+      "codepoints": [
+        1575,
+        1604,
+        1588,
+        1593,
+        1585,
+        1575,
+        1569
+      ]
+    },
+    "ayahs": 227,
+    "slug": "ash-shuara"
+  },
+  {
+    "id": 27,
+    "city": "makkah",
+    "name": {
+      "translated": "The Ant",
+      "transliterated": "An-Naml",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1605,
+        1604
+      ]
+    },
+    "ayahs": 93,
+    "slug": "an-naml"
+  },
+  {
+    "id": 28,
+    "city": "makkah",
+    "name": {
+      "translated": "The Stories",
+      "transliterated": "Al-Qasas",
+      "codepoints": [
+        1575,
+        1604,
+        1602,
+        1589,
+        1589
+      ]
+    },
+    "ayahs": 88,
+    "slug": "al-qasas"
+  },
+  {
+    "id": 29,
+    "city": "makkah",
+    "name": {
+      "translated": "The Spider",
+      "transliterated": "Al-'Ankabut",
+      "codepoints": [
+        1575,
+        1604,
+        1593,
+        1606,
+        1603,
+        1576,
+        1608,
+        1578
+      ]
+    },
+    "ayahs": 69,
+    "slug": "al-ankabut"
+  },
+  {
+    "id": 30,
+    "city": "makkah",
+    "name": {
+      "translated": "The Romans",
+      "transliterated": "Ar-Rum",
+      "codepoints": [
+        1575,
+        1604,
+        1585,
+        1608,
+        1605
+      ]
+    },
+    "ayahs": 60,
+    "slug": "ar-rum"
+  },
+  {
+    "id": 31,
+    "city": "makkah",
+    "name": {
+      "translated": "Luqman",
+      "transliterated": "Luqman",
+      "codepoints": [
+        1604,
+        1602,
+        1605,
+        1575,
+        1606
+      ]
+    },
+    "ayahs": 34,
+    "slug": "luqman"
+  },
+  {
+    "id": 32,
+    "city": "makkah",
+    "name": {
+      "translated": "The Prostration",
+      "transliterated": "As-Sajdah",
+      "codepoints": [
+        1575,
+        1604,
+        1587,
+        1580,
+        1583,
+        1577
+      ]
+    },
+    "ayahs": 30,
+    "slug": "as-sajdah"
+  },
+  {
+    "id": 33,
+    "city": "madinah",
+    "name": {
+      "translated": "The Combined Forces",
+      "transliterated": "Al-Ahzab",
+      "codepoints": [
+        1575,
+        1604,
+        1571,
+        1581,
+        1586,
+        1575,
+        1576
+      ]
+    },
+    "ayahs": 73,
+    "slug": "al-ahzab"
+  },
+  {
+    "id": 34,
+    "city": "makkah",
+    "name": {
+      "translated": "Sheba",
+      "transliterated": "Saba",
+      "codepoints": [
+        1587,
+        1576,
+        1573
+      ]
+    },
+    "ayahs": 54,
+    "slug": "saba"
+  },
+  {
+    "id": 35,
+    "city": "makkah",
+    "name": {
+      "translated": "Cityator",
+      "transliterated": "Fatir",
+      "codepoints": [
+        1601,
+        1575,
+        1591,
+        1585
+      ]
+    },
+    "ayahs": 45,
+    "slug": "fatir"
+  },
+  {
+    "id": 36,
+    "city": "makkah",
+    "name": {
+      "translated": "Ya Sin",
+      "transliterated": "Ya-Sin",
+      "codepoints": [
+        1610,
+        1587
+      ]
+    },
+    "ayahs": 83,
+    "slug": "ya-sin"
+  },
+  {
+    "id": 37,
+    "city": "makkah",
+    "name": {
+      "translated": "Those who set the Ranks",
+      "transliterated": "As-Saffat",
+      "codepoints": [
+        1575,
+        1604,
+        1589,
+        1575,
+        1601,
+        1575,
+        1578
+      ]
+    },
+    "ayahs": 182,
+    "slug": "as-saffat"
+  },
+  {
+    "id": 38,
+    "city": "makkah",
+    "name": {
+      "translated": "The Letter \"Saad\"",
+      "transliterated": "Sad",
+      "codepoints": [
+        1589
+      ]
+    },
+    "ayahs": 88,
+    "slug": "sad"
+  },
+  {
+    "id": 39,
+    "city": "makkah",
+    "name": {
+      "translated": "The Troops",
+      "transliterated": "Az-Zumar",
+      "codepoints": [
+        1575,
+        1604,
+        1586,
+        1605,
+        1585
+      ]
+    },
+    "ayahs": 75,
+    "slug": "az-zumar"
+  },
+  {
+    "id": 40,
+    "city": "makkah",
+    "name": {
+      "translated": "The Forgiver",
+      "transliterated": "Ghafir",
+      "codepoints": [
+        1594,
+        1575,
+        1601,
+        1585
+      ]
+    },
+    "ayahs": 85,
+    "slug": "ghafir"
+  },
+  {
+    "id": 41,
+    "city": "makkah",
+    "name": {
+      "translated": "Explained in Detail",
+      "transliterated": "Fussilat",
+      "codepoints": [
+        1601,
+        1589,
+        1604,
+        1578
+      ]
+    },
+    "ayahs": 54,
+    "slug": "fussilat"
+  },
+  {
+    "id": 42,
+    "city": "makkah",
+    "name": {
+      "translated": "The Consultation",
+      "transliterated": "Ash-Shuraa",
+      "codepoints": [
+        1575,
+        1604,
+        1588,
+        1608,
+        1585,
+        1609
+      ]
+    },
+    "ayahs": 53,
+    "slug": "ash-shuraa"
+  },
+  {
+    "id": 43,
+    "city": "makkah",
+    "name": {
+      "translated": "The Ornaments of Gold",
+      "transliterated": "Az-Zukhruf",
+      "codepoints": [
+        1575,
+        1604,
+        1586,
+        1582,
+        1585,
+        1601
+      ]
+    },
+    "ayahs": 89,
+    "slug": "az-zukhruf"
+  },
+  {
+    "id": 44,
+    "city": "makkah",
+    "name": {
+      "translated": "The Smoke",
+      "transliterated": "Ad-Dukhan",
+      "codepoints": [
+        1575,
+        1604,
+        1583,
+        1582,
+        1575,
+        1606
+      ]
+    },
+    "ayahs": 59,
+    "slug": "ad-dukhan"
+  },
+  {
+    "id": 45,
+    "city": "makkah",
+    "name": {
+      "translated": "The Crouching",
+      "transliterated": "Al-Jathiyah",
+      "codepoints": [
+        1575,
+        1604,
+        1580,
+        1575,
+        1579,
+        1610,
+        1577
+      ]
+    },
+    "ayahs": 37,
+    "slug": "al-jathiyah"
+  },
+  {
+    "id": 46,
+    "city": "makkah",
+    "name": {
+      "translated": "The Wind-Curved Sandhills",
+      "transliterated": "Al-Ahqaf",
+      "codepoints": [
+        1575,
+        1604,
+        1571,
+        1581,
+        1602,
+        1575,
+        1601
+      ]
+    },
+    "ayahs": 35,
+    "slug": "al-ahqaf"
+  },
+  {
+    "id": 47,
+    "city": "madinah",
+    "name": {
+      "translated": "Muhammad",
+      "transliterated": "Muhammad",
+      "codepoints": [
+        1605,
+        1581,
+        1605,
+        1583
+      ]
+    },
+    "ayahs": 38,
+    "slug": "muhammad"
+  },
+  {
+    "id": 48,
+    "city": "madinah",
+    "name": {
+      "translated": "The Victory",
+      "transliterated": "Al-Fath",
+      "codepoints": [
+        1575,
+        1604,
+        1601,
+        1578,
+        1581
+      ]
+    },
+    "ayahs": 29,
+    "slug": "al-fath"
+  },
+  {
+    "id": 49,
+    "city": "madinah",
+    "name": {
+      "translated": "The Rooms",
+      "transliterated": "Al-Hujurat",
+      "codepoints": [
+        1575,
+        1604,
+        1581,
+        1580,
+        1585,
+        1575,
+        1578
+      ]
+    },
+    "ayahs": 18,
+    "slug": "al-hujurat"
+  },
+  {
+    "id": 50,
+    "city": "makkah",
+    "name": {
+      "translated": "The Letter \"Qaf\"",
+      "transliterated": "Qaf",
+      "codepoints": [
+        1602
+      ]
+    },
+    "ayahs": 45,
+    "slug": "qaf"
+  },
+  {
+    "id": 51,
+    "city": "makkah",
+    "name": {
+      "translated": "The Winnowing Winds",
+      "transliterated": "Adh-Dhariyat",
+      "codepoints": [
+        1575,
+        1604,
+        1584,
+        1575,
+        1585,
+        1610,
+        1575,
+        1578
+      ]
+    },
+    "ayahs": 60,
+    "slug": "adh-dhariyat"
+  },
+  {
+    "id": 52,
+    "city": "makkah",
+    "name": {
+      "translated": "The Mount",
+      "transliterated": "At-Tur",
+      "codepoints": [
+        1575,
+        1604,
+        1591,
+        1608,
+        1585
+      ]
+    },
+    "ayahs": 49,
+    "slug": "at-tur"
+  },
+  {
+    "id": 53,
+    "city": "makkah",
+    "name": {
+      "translated": "The Star",
+      "transliterated": "An-Najm",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1580,
+        1605
+      ]
+    },
+    "ayahs": 62,
+    "slug": "an-najm"
+  },
+  {
+    "id": 54,
+    "city": "makkah",
+    "name": {
+      "translated": "The Moon",
+      "transliterated": "Al-Qamar",
+      "codepoints": [
+        1575,
+        1604,
+        1602,
+        1605,
+        1585
+      ]
+    },
+    "ayahs": 55,
+    "slug": "al-qamar"
+  },
+  {
+    "id": 55,
+    "city": "madinah",
+    "name": {
+      "translated": "The Beneficent",
+      "transliterated": "Ar-Rahman",
+      "codepoints": [
+        1575,
+        1604,
+        1585,
+        1581,
+        1605,
+        1606
+      ]
+    },
+    "ayahs": 78,
+    "slug": "ar-rahman"
+  },
+  {
+    "id": 56,
+    "city": "makkah",
+    "name": {
+      "translated": "The Inevitable",
+      "transliterated": "Al-Waqi'ah",
+      "codepoints": [
+        1575,
+        1604,
+        1608,
+        1575,
+        1602,
+        1593,
+        1577
+      ]
+    },
+    "ayahs": 96,
+    "slug": "al-waqiah"
+  },
+  {
+    "id": 57,
+    "city": "madinah",
+    "name": {
+      "translated": "The Iron",
+      "transliterated": "Al-Hadid",
+      "codepoints": [
+        1575,
+        1604,
+        1581,
+        1583,
+        1610,
+        1583
+      ]
+    },
+    "ayahs": 29,
+    "slug": "al-hadid"
+  },
+  {
+    "id": 58,
+    "city": "madinah",
+    "name": {
+      "translated": "The Pleading Woman",
+      "transliterated": "Al-Mujadila",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1580,
+        1575,
+        1583,
+        1604,
+        1577
+      ]
+    },
+    "ayahs": 22,
+    "slug": "al-mujadila"
+  },
+  {
+    "id": 59,
+    "city": "madinah",
+    "name": {
+      "translated": "The Exile",
+      "transliterated": "Al-Hashr",
+      "codepoints": [
+        1575,
+        1604,
+        1581,
+        1588,
+        1585
+      ]
+    },
+    "ayahs": 24,
+    "slug": "al-hashr"
+  },
+  {
+    "id": 60,
+    "city": "madinah",
+    "name": {
+      "translated": "She that is to be examined",
+      "transliterated": "Al-Mumtahanah",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1605,
+        1578,
+        1581,
+        1606,
+        1577
+      ]
+    },
+    "ayahs": 13,
+    "slug": "al-mumtahanah"
+  },
+  {
+    "id": 61,
+    "city": "madinah",
+    "name": {
+      "translated": "The Ranks",
+      "transliterated": "As-Saf",
+      "codepoints": [
+        1575,
+        1604,
+        1589,
+        1601
+      ]
+    },
+    "ayahs": 14,
+    "slug": "as-saf"
+  },
+  {
+    "id": 62,
+    "city": "madinah",
+    "name": {
+      "translated": "The Congregation, Friday",
+      "transliterated": "Al-Jumu'ah",
+      "codepoints": [
+        1575,
+        1604,
+        1580,
+        1605,
+        1593,
+        1577
+      ]
+    },
+    "ayahs": 11,
+    "slug": "al-jumuah"
+  },
+  {
+    "id": 63,
+    "city": "madinah",
+    "name": {
+      "translated": "The Hypocrites",
+      "transliterated": "Al-Munafiqun",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1606,
+        1575,
+        1601,
+        1602,
+        1608,
+        1606
+      ]
+    },
+    "ayahs": 11,
+    "slug": "al-munafiqun"
+  },
+  {
+    "id": 64,
+    "city": "madinah",
+    "name": {
+      "translated": "The Mutual Disillusion",
+      "transliterated": "At-Taghabun",
+      "codepoints": [
+        1575,
+        1604,
+        1578,
+        1594,
+        1575,
+        1576,
+        1606
+      ]
+    },
+    "ayahs": 18,
+    "slug": "at-taghabun"
+  },
+  {
+    "id": 65,
+    "city": "madinah",
+    "name": {
+      "translated": "The Divorce",
+      "transliterated": "At-Talaq",
+      "codepoints": [
+        1575,
+        1604,
+        1591,
+        1604,
+        1575,
+        1602
+      ]
+    },
+    "ayahs": 12,
+    "slug": "at-talaq"
+  },
+  {
+    "id": 66,
+    "city": "madinah",
+    "name": {
+      "translated": "The Prohibition",
+      "transliterated": "At-Tahrim",
+      "codepoints": [
+        1575,
+        1604,
+        1578,
+        1581,
+        1585,
+        1610,
+        1605
+      ]
+    },
+    "ayahs": 12,
+    "slug": "at-tahrim"
+  },
+  {
+    "id": 67,
+    "city": "makkah",
+    "name": {
+      "translated": "The Sovereignty",
+      "transliterated": "Al-Mulk",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1604,
+        1603
+      ]
+    },
+    "ayahs": 30,
+    "slug": "al-mulk"
+  },
+  {
+    "id": 68,
+    "city": "makkah",
+    "name": {
+      "translated": "The Pen",
+      "transliterated": "Al-Qalam",
+      "codepoints": [
+        1575,
+        1604,
+        1602,
+        1604,
+        1605
+      ]
+    },
+    "ayahs": 52,
+    "slug": "al-qalam"
+  },
+  {
+    "id": 69,
+    "city": "makkah",
+    "name": {
+      "translated": "The Reality",
+      "transliterated": "Al-Haqqah",
+      "codepoints": [
+        1575,
+        1604,
+        1581,
+        1575,
+        1602,
+        1577
+      ]
+    },
+    "ayahs": 52,
+    "slug": "al-haqqah"
+  },
+  {
+    "id": 70,
+    "city": "makkah",
+    "name": {
+      "translated": "The Ascending Stairways",
+      "transliterated": "Al-Ma'arij",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1593,
+        1575,
+        1585,
+        1580
+      ]
+    },
+    "ayahs": 44,
+    "slug": "al-maarij"
+  },
+  {
+    "id": 71,
+    "city": "makkah",
+    "name": {
+      "translated": "Noah",
+      "transliterated": "Nuh",
+      "codepoints": [
+        1606,
+        1608,
+        1581
+      ]
+    },
+    "ayahs": 28,
+    "slug": "nuh"
+  },
+  {
+    "id": 72,
+    "city": "makkah",
+    "name": {
+      "translated": "The Jinn",
+      "transliterated": "Al-Jinn",
+      "codepoints": [
+        1575,
+        1604,
+        1580,
+        1606
+      ]
+    },
+    "ayahs": 28,
+    "slug": "al-jinn"
+  },
+  {
+    "id": 73,
+    "city": "makkah",
+    "name": {
+      "translated": "The Enshrouded One",
+      "transliterated": "Al-Muzzammil",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1586,
+        1605,
+        1604
+      ]
+    },
+    "ayahs": 20,
+    "slug": "al-muzzammil"
+  },
+  {
+    "id": 74,
+    "city": "makkah",
+    "name": {
+      "translated": "The Cloaked One",
+      "transliterated": "Al-Muddaththir",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1583,
+        1579,
+        1585
+      ]
+    },
+    "ayahs": 56,
+    "slug": "al-muddaththir"
+  },
+  {
+    "id": 75,
+    "city": "makkah",
+    "name": {
+      "translated": "The Resurrection",
+      "transliterated": "Al-Qiyamah",
+      "codepoints": [
+        1575,
+        1604,
+        1602,
+        1610,
+        1575,
+        1605,
+        1577
+      ]
+    },
+    "ayahs": 40,
+    "slug": "al-qiyamah"
+  },
+  {
+    "id": 76,
+    "city": "madinah",
+    "name": {
+      "translated": "The Man",
+      "transliterated": "Al-Insan",
+      "codepoints": [
+        1575,
+        1604,
+        1575,
+        1606,
+        1587,
+        1575,
+        1606
+      ]
+    },
+    "ayahs": 31,
+    "slug": "al-insan"
+  },
+  {
+    "id": 77,
+    "city": "makkah",
+    "name": {
+      "translated": "The Emissaries",
+      "transliterated": "Al-Mursalat",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1585,
+        1587,
+        1604,
+        1575,
+        1578
+      ]
+    },
+    "ayahs": 50,
+    "slug": "al-mursalat"
+  },
+  {
+    "id": 78,
+    "city": "makkah",
+    "name": {
+      "translated": "The Tidings",
+      "transliterated": "An-Naba",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1576,
+        1573
+      ]
+    },
+    "ayahs": 40,
+    "slug": "an-naba"
+  },
+  {
+    "id": 79,
+    "city": "makkah",
+    "name": {
+      "translated": "Those who drag forth",
+      "transliterated": "An-Nazi'at",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1575,
+        1586,
+        1593,
+        1575,
+        1578
+      ]
+    },
+    "ayahs": 46,
+    "slug": "an-naziat"
+  },
+  {
+    "id": 80,
+    "city": "makkah",
+    "name": {
+      "translated": "He Frowned",
+      "transliterated": "'Abasa",
+      "codepoints": [
+        1593,
+        1576,
+        1587
+      ]
+    },
+    "ayahs": 42,
+    "slug": "abasa"
+  },
+  {
+    "id": 81,
+    "city": "makkah",
+    "name": {
+      "translated": "The Overthrowing",
+      "transliterated": "At-Takwir",
+      "codepoints": [
+        1575,
+        1604,
+        1578,
+        1603,
+        1608,
+        1610,
+        1585
+      ]
+    },
+    "ayahs": 29,
+    "slug": "at-takwir"
+  },
+  {
+    "id": 82,
+    "city": "makkah",
+    "name": {
+      "translated": "The Cleaving",
+      "transliterated": "Al-Infitar",
+      "codepoints": [
+        1575,
+        1604,
+        1573,
+        1606,
+        1601,
+        1591,
+        1575,
+        1585
+      ]
+    },
+    "ayahs": 19,
+    "slug": "al-infitar"
+  },
+  {
+    "id": 83,
+    "city": "makkah",
+    "name": {
+      "translated": "The Defrauding",
+      "transliterated": "Al-Mutaffifin",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1591,
+        1601,
+        1601,
+        1610,
+        1606
+      ]
+    },
+    "ayahs": 36,
+    "slug": "al-mutaffifin"
+  },
+  {
+    "id": 84,
+    "city": "makkah",
+    "name": {
+      "translated": "The Sundering",
+      "transliterated": "Al-Inshiqaq",
+      "codepoints": [
+        1575,
+        1604,
+        1573,
+        1606,
+        1588,
+        1602,
+        1575,
+        1602
+      ]
+    },
+    "ayahs": 25,
+    "slug": "al-inshiqaq"
+  },
+  {
+    "id": 85,
+    "city": "makkah",
+    "name": {
+      "translated": "The Mansions of the Stars",
+      "transliterated": "Al-Buruj",
+      "codepoints": [
+        1575,
+        1604,
+        1576,
+        1585,
+        1608,
+        1580
+      ]
+    },
+    "ayahs": 22,
+    "slug": "al-buruj"
+  },
+  {
+    "id": 86,
+    "city": "makkah",
+    "name": {
+      "translated": "The Nightcommer",
+      "transliterated": "At-Tariq",
+      "codepoints": [
+        1575,
+        1604,
+        1591,
+        1575,
+        1585,
+        1602
+      ]
+    },
+    "ayahs": 17,
+    "slug": "at-tariq"
+  },
+  {
+    "id": 87,
+    "city": "makkah",
+    "name": {
+      "translated": "The Most High",
+      "transliterated": "Al-A'la",
+      "codepoints": [
+        1575,
+        1604,
+        1571,
+        1593,
+        1604,
+        1609
+      ]
+    },
+    "ayahs": 19,
+    "slug": "al-ala"
+  },
+  {
+    "id": 88,
+    "city": "makkah",
+    "name": {
+      "translated": "The Overwhelming",
+      "transliterated": "Al-Ghashiyah",
+      "codepoints": [
+        1575,
+        1604,
+        1594,
+        1575,
+        1588,
+        1610,
+        1577
+      ]
+    },
+    "ayahs": 26,
+    "slug": "al-ghashiyah"
+  },
+  {
+    "id": 89,
+    "city": "makkah",
+    "name": {
+      "translated": "The Dawn",
+      "transliterated": "Al-Fajr",
+      "codepoints": [
+        1575,
+        1604,
+        1601,
+        1580,
+        1585
+      ]
+    },
+    "ayahs": 30,
+    "slug": "al-fajr"
+  },
+  {
+    "id": 90,
+    "city": "makkah",
+    "name": {
+      "translated": "The City",
+      "transliterated": "Al-Balad",
+      "codepoints": [
+        1575,
+        1604,
+        1576,
+        1604,
+        1583
+      ]
+    },
+    "ayahs": 20,
+    "slug": "al-balad"
+  },
+  {
+    "id": 91,
+    "city": "makkah",
+    "name": {
+      "translated": "The Sun",
+      "transliterated": "Ash-Shams",
+      "codepoints": [
+        1575,
+        1604,
+        1588,
+        1605,
+        1587
+      ]
+    },
+    "ayahs": 15,
+    "slug": "ash-shams"
+  },
+  {
+    "id": 92,
+    "city": "makkah",
+    "name": {
+      "translated": "The Night",
+      "transliterated": "Al-Layl",
+      "codepoints": [
+        1575,
+        1604,
+        1604,
+        1610,
+        1604
+      ]
+    },
+    "ayahs": 21,
+    "slug": "al-layl"
+  },
+  {
+    "id": 93,
+    "city": "makkah",
+    "name": {
+      "translated": "The Morning Hours",
+      "transliterated": "Ad-Duhaa",
+      "codepoints": [
+        1575,
+        1604,
+        1590,
+        1581,
+        1609
+      ]
+    },
+    "ayahs": 11,
+    "slug": "ad-duhaa"
+  },
+  {
+    "id": 94,
+    "city": "makkah",
+    "name": {
+      "translated": "The Relief",
+      "transliterated": "Ash-Sharh",
+      "codepoints": [
+        1575,
+        1604,
+        1588,
+        1585,
+        1581
+      ]
+    },
+    "ayahs": 8,
+    "slug": "ash-sharh"
+  },
+  {
+    "id": 95,
+    "city": "makkah",
+    "name": {
+      "translated": "The Fig",
+      "transliterated": "At-Tin",
+      "codepoints": [
+        1575,
+        1604,
+        1578,
+        1610,
+        1606
+      ]
+    },
+    "ayahs": 8,
+    "slug": "at-tin"
+  },
+  {
+    "id": 96,
+    "city": "makkah",
+    "name": {
+      "translated": "The Clot",
+      "transliterated": "Al-'Alaq",
+      "codepoints": [
+        1575,
+        1604,
+        1593,
+        1604,
+        1602
+      ]
+    },
+    "ayahs": 19,
+    "slug": "al-alaq"
+  },
+  {
+    "id": 97,
+    "city": "makkah",
+    "name": {
+      "translated": "The Power",
+      "transliterated": "Al-Qadr",
+      "codepoints": [
+        1575,
+        1604,
+        1602,
+        1583,
+        1585
+      ]
+    },
+    "ayahs": 5,
+    "slug": "al-qadr"
+  },
+  {
+    "id": 98,
+    "city": "madinah",
+    "name": {
+      "translated": "The Clear Proof",
+      "transliterated": "Al-Bayyinah",
+      "codepoints": [
+        1575,
+        1604,
+        1576,
+        1610,
+        1606,
+        1577
+      ]
+    },
+    "ayahs": 8,
+    "slug": "al-bayyinah"
+  },
+  {
+    "id": 99,
+    "city": "madinah",
+    "name": {
+      "translated": "The Earthquake",
+      "transliterated": "Az-Zalzalah",
+      "codepoints": [
+        1575,
+        1604,
+        1586,
+        1604,
+        1586,
+        1604,
+        1577
+      ]
+    },
+    "ayahs": 8,
+    "slug": "az-zalzalah"
+  },
+  {
+    "id": 100,
+    "city": "makkah",
+    "name": {
+      "translated": "The Courser",
+      "transliterated": "Al-'Adiyat",
+      "codepoints": [
+        1575,
+        1604,
+        1593,
+        1575,
+        1583,
+        1610,
+        1575,
+        1578
+      ]
+    },
+    "ayahs": 11,
+    "slug": "al-adiyat"
+  },
+  {
+    "id": 101,
+    "city": "makkah",
+    "name": {
+      "translated": "The Calamity",
+      "transliterated": "Al-Qari'ah",
+      "codepoints": [
+        1575,
+        1604,
+        1602,
+        1575,
+        1585,
+        1593,
+        1577
+      ]
+    },
+    "ayahs": 11,
+    "slug": "al-qariah"
+  },
+  {
+    "id": 102,
+    "city": "makkah",
+    "name": {
+      "translated": "The Rivalry in world increase",
+      "transliterated": "At-Takathur",
+      "codepoints": [
+        1575,
+        1604,
+        1578,
+        1603,
+        1575,
+        1579,
+        1585
+      ]
+    },
+    "ayahs": 8,
+    "slug": "at-takathur"
+  },
+  {
+    "id": 103,
+    "city": "makkah",
+    "name": {
+      "translated": "The Declining Day",
+      "transliterated": "Al-'Asr",
+      "codepoints": [
+        1575,
+        1604,
+        1593,
+        1589,
+        1585
+      ]
+    },
+    "ayahs": 3,
+    "slug": "al-asr"
+  },
+  {
+    "id": 104,
+    "city": "makkah",
+    "name": {
+      "translated": "The Traducer",
+      "transliterated": "Al-Humazah",
+      "codepoints": [
+        1575,
+        1604,
+        1607,
+        1605,
+        1586,
+        1577
+      ]
+    },
+    "ayahs": 9,
+    "slug": "al-humazah"
+  },
+  {
+    "id": 105,
+    "city": "makkah",
+    "name": {
+      "translated": "The Elephant",
+      "transliterated": "Al-Fil",
+      "codepoints": [
+        1575,
+        1604,
+        1601,
+        1610,
+        1604
+      ]
+    },
+    "ayahs": 5,
+    "slug": "al-fil"
+  },
+  {
+    "id": 106,
+    "city": "makkah",
+    "name": {
+      "translated": "Quraysh",
+      "transliterated": "Quraysh",
+      "codepoints": [
+        1602,
+        1585,
+        1610,
+        1588
+      ]
+    },
+    "ayahs": 4,
+    "slug": "quraysh"
+  },
+  {
+    "id": 107,
+    "city": "makkah",
+    "name": {
+      "translated": "The Small kindnesses",
+      "transliterated": "Al-Ma'un",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1575,
+        1593,
+        1608,
+        1606
+      ]
+    },
+    "ayahs": 7,
+    "slug": "al-maun"
+  },
+  {
+    "id": 108,
+    "city": "makkah",
+    "name": {
+      "translated": "The Abundance",
+      "transliterated": "Al-Kawthar",
+      "codepoints": [
+        1575,
+        1604,
+        1603,
+        1608,
+        1579,
+        1585
+      ]
+    },
+    "ayahs": 3,
+    "slug": "al-kawthar"
+  },
+  {
+    "id": 109,
+    "city": "makkah",
+    "name": {
+      "translated": "The Disbelievers",
+      "transliterated": "Al-Kafirun",
+      "codepoints": [
+        1575,
+        1604,
+        1603,
+        1575,
+        1601,
+        1585,
+        1608,
+        1606
+      ]
+    },
+    "ayahs": 6,
+    "slug": "al-kafirun"
+  },
+  {
+    "id": 110,
+    "city": "madinah",
+    "name": {
+      "translated": "The Divine Support",
+      "transliterated": "An-Nasr",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1589,
+        1585
+      ]
+    },
+    "ayahs": 3,
+    "slug": "an-nasr"
+  },
+  {
+    "id": 111,
+    "city": "makkah",
+    "name": {
+      "translated": "The Palm Fiber",
+      "transliterated": "Al-Masad",
+      "codepoints": [
+        1575,
+        1604,
+        1605,
+        1587,
+        1583
+      ]
+    },
+    "ayahs": 5,
+    "slug": "al-masad"
+  },
+  {
+    "id": 112,
+    "city": "makkah",
+    "name": {
+      "translated": "The Sincerity",
+      "transliterated": "Al-Ikhlas",
+      "codepoints": [
+        1575,
+        1604,
+        1573,
+        1582,
+        1604,
+        1575,
+        1589
+      ]
+    },
+    "ayahs": 4,
+    "slug": "al-ikhlas"
+  },
+  {
+    "id": 113,
+    "city": "makkah",
+    "name": {
+      "translated": "The Daybreak",
+      "transliterated": "Al-Falaq",
+      "codepoints": [
+        1575,
+        1604,
+        1601,
+        1604,
+        1602
+      ]
+    },
+    "ayahs": 5,
+    "slug": "al-falaq"
+  },
+  {
+    "id": 114,
+    "city": "makkah",
+    "name": {
+      "translated": "Mankind",
+      "transliterated": "An-Nas",
+      "codepoints": [
+        1575,
+        1604,
+        1606,
+        1575,
+        1587
+      ]
+    },
+    "ayahs": 6,
+    "slug": "an-nas"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "ar": {
+    "http": {
+      "hostname": "www.searchtruth.com",
+      "path": "/chapter_display.php?chapter=%{surah_no}&translator=7",
+      "vars": ["surah_no"]
+    },
+    "dest": {
+      "dir": "%{share_dir}/TheQuran/ar"
+    },
+    "translated_by": null
+  },
+  "en": {
+    "http": {
+      "hostname": "quran.com",
+      "path": "/en/%{surah_no}/%{ayah_no}",
+      "vars": ["surah_no", "ayah_no"]
+    },
+    "dest": {
+      "dir": "%{share_dir}/TheQuran/en"
+    },
+    "translated_by": "Dr. Mustafa Khattab"
+  },
+  "pt": {
+    "http": {
+      "hostname": "quran.com",
+      "path": "/pt/%{surah_no}/%{ayah_no}",
+      "vars": ["surah_no", "ayah_no"]
+    },
+    "dest": {
+      "dir": "%{share_dir}/TheQuran/pt"
+    },
+    "translated_by": null
+  },
+  "fa": {
+    "http": {
+      "hostname": "www.searchtruth.com",
+      "path": "/chapter_display.php?chapter=%{surah_no}&translator=24",
+      "vars": ["surah_no"]
+    },
+    "dest": {
+      "dir": "%{share_dir}/TheQuran/fa"
+    },
+    "translated_by": "Hussain Ansarian"
+  },
+  "nl": {
+    "http": {
+      "hostname": "quran.com",
+      "path": "/nl/%{surah_no}/%{ayah_no}",
+      "vars": ["surah_no", "ayah_no"]
+    },
+    "dest": {
+      "dir": "%{share_dir}/TheQuran/nl"
+    },
+    "translated_by": "Sofian S. Siregar"
+  },
+  "fr": {
+    "http": {
+      "hostname": "quran.com",
+      "path": "/fr/%{surah_no}/%{ayah_no}",
+      "vars": ["surah_no", "ayah_no"]
+    },
+    "dest": {
+      "dir": "%{share_dir}/TheQuran/fr"
+    },
+    "translated_by": "Muhammad Hamidullah"
+  },
+  "it": {
+    "http": {
+      "hostname": "www.searchtruth.com",
+      "path": "/chapter_display.php?chapter=%{surah_no}&translator=22",
+      "vars": ["surah_no"]
+    },
+    "dest": {
+      "dir": "%{share_dir}/TheQuran/it"
+    },
+    "translated_by": "Hamza Roberto Piccardo"
+  }
+}
